@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">I'm a passionate developer with a keen interest in mobile app, fullstack development and machine learning, particularly using Flutter. I love to code and build amazing things. My journey in tech has been exciting, and I'm constantly exploring the world of technology, and here you'll find a collection of my projects, experiments, and contributions.</h4>
+<h3 align="left">I'm a passionate developer with a keen interest in mobile app, fullstack development and machine learning, particularly using Flutter. I love to code and build amazing things. My journey in tech has been exciting, and I'm constantly exploring the world of technology, and here you'll find a collection of my projects, experiments, and contributions.</h3>
 
 ###
 
-<h4 align="left">- 🌱 I’m currently learning React, Harvard CS50, Meta FrontEnd development<br><br>- 👯 I’m looking to collaborate with open-source projects on mobile dev, full-stack dev and data science<br><br>- 📫 How to reach me "wimukthideshan@gmail.com"</h4>
+<h3 align="left">- 🌱 I’m currently learning React, Harvard CS50, Meta FrontEnd development<br><br>- 👯 I’m looking to collaborate with open-source projects on mobile dev, full-stack dev and data science<br><br>- 📫 How to reach me "wimukthideshan@gmail.com"</h3>
 
 ###
 

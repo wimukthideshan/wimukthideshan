@@ -114,15 +114,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/d.e.s.h.a.n">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=d.e.s.h.a.n&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOk82pTrh210n0_4qGhLFNOSDiDXfTapQ-Q&s"  />
+  <img height="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOk82pTrh210n0_4qGhLFNOSDiDXfTapQ-Q&s"  />
 </div>
 
 ###

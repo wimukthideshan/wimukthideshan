@@ -96,7 +96,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wimukthideshan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="167" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wimukthideshan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true" height="300" alt="languages graph"  />
 </div>
 
 ###

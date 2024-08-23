@@ -27,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -113,8 +113,12 @@
 
 ###
 
+<h3 align="center">Always the big brain :)</h3>
+
+###
+
 <div align="center">
-  <img height="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVOk82pTrh210n0_4qGhLFNOSDiDXfTapQ-Q&s"  />
+  <img height="450" src="https://i.redd.it/ln618pt684b71.jpg"  />
 </div>
 
 ###

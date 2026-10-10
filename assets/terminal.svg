@@ -1,0 +1,31 @@
+<svg viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal card: whoami and current status">
+  <defs>
+    <linearGradient id="pr" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c83ff"/>
+      <stop offset="100%" stop-color="#ff8ac2"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="40" y="60" width="0" height="30"><animate attributeName="width" values="0;0;840;840" keyTimes="0;0.02;0.10;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="40" y="90" width="0" height="30"><animate attributeName="width" values="0;0;840;840" keyTimes="0;0.12;0.20;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="40" y="120" width="0" height="30"><animate attributeName="width" values="0;0;840;840" keyTimes="0;0.22;0.31;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c4"><rect x="40" y="150" width="0" height="30"><animate attributeName="width" values="0;0;840;840" keyTimes="0;0.33;0.42;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c5"><rect x="40" y="185" width="0" height="30"><animate attributeName="width" values="0;0;840;840" keyTimes="0;0.46;0.54;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c6"><rect x="40" y="210" width="0" height="30"><animate attributeName="width" values="0;0;840;840" keyTimes="0;0.56;0.64;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect x="8" y="8" width="884" height="234" rx="14" fill="#8b949e" fill-opacity="0.08" stroke="#8b949e" stroke-opacity="0.35"/>
+  <circle cx="34" cy="30" r="6" fill="#ff8ac2"/>
+  <circle cx="54" cy="30" r="6" fill="#b57bff"/>
+  <circle cx="74" cy="30" r="6" fill="#7c83ff"/>
+
+  <g font-family="'Courier New', Courier, monospace" font-size="16">
+    <g clip-path="url(#c1)"><text x="40" y="80"><tspan fill="url(#pr)" font-weight="700">~ $</tspan><tspan fill="#8b949e"> whoami</tspan></text></g>
+    <g clip-path="url(#c2)"><text x="40" y="108" fill="#8b949e">deshan: ML nerd, currently peeking at the business side</text></g>
+    <g clip-path="url(#c3)"><text x="40" y="138"><tspan fill="url(#pr)" font-weight="700">~ $</tspan><tspan fill="#8b949e"> cat now.txt</tspan></text></g>
+    <g clip-path="url(#c4)"><text x="40" y="166" fill="#8b949e">- obsessed with the gap between a cool model and a real product</text></g>
+    <g clip-path="url(#c5)"><text x="40" y="200" fill="#8b949e">- reading pitch decks, post-mortems and papers (in that order)</text></g>
+    <g clip-path="url(#c6)"><text x="40" y="228"><tspan fill="url(#pr)" font-weight="700">~ $</tspan><tspan fill="#8b949e"> status</tspan><tspan fill="#8b949e" fill-opacity="0.9">  =&gt; caffeinated, mostly stable</tspan></text></g>
+    <rect x="720" y="214" width="9" height="18" fill="url(#pr)">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Meme: three levels of thinking, can we build it, should we build it, will anyone pay for it">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c83ff"/>
+      <stop offset="100%" stop-color="#ff8ac2"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#ff8ac2" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ff8ac2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .t { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .row { fill: #8b949e; fill-opacity: 0.08; stroke: #8b949e; stroke-opacity: 0.35; stroke-width: 1.5; }
+    .final { font-weight: 800; fill: url(#bg3); }
+  </style>
+
+  <!-- rows -->
+  <rect class="row" x="10" y="10"  width="880" height="95" rx="14"/>
+  <rect class="row" x="10" y="122" width="880" height="95" rx="14"/>
+  <rect class="row" x="10" y="234" width="880" height="95" rx="14"/>
+
+  <!-- brain 1 (small) -->
+  <circle cx="80" cy="58" r="14" fill="#8b949e" fill-opacity="0.5"/>
+  <text class="t" x="150" y="68" font-size="26" font-weight="600">can we build it?</text>
+
+  <!-- brain 2 (medium) -->
+  <circle cx="80" cy="170" r="22" fill="#b57bff" fill-opacity="0.7"/>
+  <text class="t" x="150" y="180" font-size="26" font-weight="600">should we build it?</text>
+
+  <!-- brain 3 (huge, glowing) -->
+  <circle cx="80" cy="282" r="48" fill="url(#halo)">
+    <animate attributeName="r" values="44;58;44" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="282" r="28" fill="url(#bg3)">
+    <animate attributeName="r" values="26;31;26" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text class="t final" x="150" y="294" font-size="30">will anyone actually pay for it?</text>
+</svg>

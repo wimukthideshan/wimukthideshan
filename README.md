@@ -1,124 +1,70 @@
-<h2 align="center">Hi 👋, I'm Deshan</h2>
+<div align="center">
 
-###
+<img src="./assets/header.svg" alt="hey, I'm Deshan" width="100%"/>
 
-<h3 align="left">I'm a passionate developer with a keen interest in mobile app, fullstack development and machine learning, particularly using Flutter. I love to code and build amazing things. My journey in tech has been exciting, and I'm constantly exploring the world of technology, and here you'll find a collection of my projects, experiments, and contributions.</h3>
+<img src="./assets/avatar.svg" alt="Animated cartoon of Deshan typing" width="340"/>
 
-###
+**CS grad (First Class) · ML nerd · exploring the business side of products**
 
-<h3 align="left">- 🌱 I’m currently learning React, Harvard CS50, Meta FrontEnd development<br><br>- 👯 I’m looking to collaborate with open-source projects on mobile dev, full-stack dev and data science<br><br>- 📫 How to reach me "wimukthideshan@gmail.com"</h3>
+<a href="https://linkedin.com/in/wimukthideshan"><img src="https://img.shields.io/badge/LinkedIn-say%20hi-7c83ff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:wimukthideshan@gmail.com"><img src="https://img.shields.io/badge/Email-wimukthideshan@gmail.com-b57bff?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wimukthideshan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/d.e.s.h.a.n/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="28" alt="instagram logo"  />
-  </a>
-  <a href="mailto: wimukthideshan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="28" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/Wqt7f9sRcu47XhRB/?mibextid=qi2Omg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="64" height="28" alt="facebook logo"  />
-  </a>
 </div>
 
-###
+<br/>
+
+## the short version
+
+I like teaching machines to do clever things. Lately I also like asking the question that comes right after: *okay, but who is this for, and would they pay for it?*
+
+So this profile is what happens when a machine learning nerd starts reading pitch decks for fun.
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+<img src="./assets/terminal.svg" alt="whoami" width="100%"/>
 </div>
 
-###
+<br/>
 
-<br clear="both">
-
-<img align="left" src="https://profile-counter.glitch.me/wimukthideshan/count.svg?"  />
-
-###
-
-<br clear="both">
+## two brains, one keyboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wimukthideshan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true" height="300" alt="languages graph"  />
+<img src="./assets/meme-brain.svg" alt="can we build it, should we build it, will anyone pay for it" width="100%"/>
 </div>
 
-###
+<br/>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wimukthideshan/wimukthideshan/output/snake.svg" alt="Snake animation" />
-
-###
+## reality check
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=wimukthideshan&theme=dracula" alt="Layout with last medium posts"  />
+<img src="./assets/meme-notebook.svg" alt="my model in my notebook versus the real world" width="100%"/>
 </div>
 
-###
-
-<h3 align="center">Always the big brain :)</h3>
-
-###
+<br/>
 
 <div align="center">
-  <img height="450" src="https://i.redd.it/ln618pt684b71.jpg"  />
+<img src="./assets/meme-bars.svg" alt="how an ML project actually goes" width="100%"/>
 </div>
 
-###
+<br/>
+
+## toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,flutter,dart,nodejs,nextjs,react,typescript,java,postgres,mongodb,firebase,supabase,docker,git,figma&perline=8" alt="tech stack"/>
+
+</div>
+
+<br/>
+
+## contribution garden
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/wimukthideshan/wimukthideshan/output/snake.svg" alt="Snake eating my contributions" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Got a model that says everything is a cat? Or a business idea that needs one? <a href="mailto:wimukthideshan@gmail.com">Let's talk</a>.</sub>
+</div>

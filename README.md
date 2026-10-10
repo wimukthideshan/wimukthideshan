@@ -61,7 +61,6 @@ So this profile is what happens when a machine learning nerd starts reading pitc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=wimukthideshan&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=7c83ff&icon_color=b57bff&text_color=8b949e" alt="wimukthideshan's GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wimukthideshan&hide_border=true&background=00000000&ring=7c83ff&fire=b57bff&currStreakLabel=7c83ff&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="wimukthideshan's GitHub streak" height="165"/>
 
 </div>
